@@ -12,12 +12,9 @@ body, html {
         background-size: cover;
         display: flex;
         flex-direction: column;
+        background-position: center top;
     }
 
-    .geral1 {
-        height: 70vh;
-        width: 20%;
-    }
 
     .page1 h1 {
         font-family: 'Inter', sans-serif;
